@@ -1,2 +1,8 @@
 # The_Scholars_W7
- Machine Learning project! BY: Gian Villafane, Taisgaly Velez, Ricardo A. Torres, Dylan Sedeno
+### By: Gian Villafane, Taisgaly Velez, Ricardo A. Torres, Dylan Sedeno
+
+# Description
+
+ Machine Learning project!
+
+ [Trello](https://trello.com/invite/b/XPwTEmD7/ATTI9e7faf9f69c0139fca2cc4e9919246064C983571/the-scholars-week-7)
