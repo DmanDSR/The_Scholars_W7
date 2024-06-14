@@ -103,6 +103,9 @@ The model used for this machine learning project was Gradient Boosting Machines 
 
 - **Geographic Expansion**: Applying the model across different geographic and cultural contexts could help validate its universality and robustness, making it more adaptable to diverse educational systems.
 
+# Conclusion
+
+In conclusion, our machine learning project aimed at predicting student dropouts has shown promising results. Gradient Boosting was the most effective model, providing the highest accuracy and performance, closely followed by Random Forests.  This predictive capability enables educational institutions to implement targeted interventions and allocate resources more efficiently, potentially enhancing student retention rates and academic success.
 
 
 
