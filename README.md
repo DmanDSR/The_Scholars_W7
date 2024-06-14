@@ -7,6 +7,7 @@
  Machine Learning project!
 
  [Trello](https://trello.com/invite/b/XPwTEmD7/ATTI9e7faf9f69c0139fca2cc4e9919246064C983571/the-scholars-week-7)
+ [Presentation](https://docs.google.com/presentation/d/1JPtkuVEnXmhijzirNtluWkIfY8WthuSa3t82G1nC38o/edit?usp=sharing)
 
 # Project Overview
 
